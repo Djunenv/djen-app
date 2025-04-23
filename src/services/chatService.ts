@@ -8,8 +8,8 @@ const responses: Record<string, string> = {
   'carbon offset': 'Carbon offsets are a way to compensate for your emissions by funding projects that reduce greenhouse gas emissions elsewhere. These might include renewable energy, forest conservation, or methane capture projects.',
   'composting': 'Composting is the natural process of recycling organic matter into a valuable fertilizer. You can compost fruit and vegetable scraps, coffee grounds, yard trimmings, and more. It reduces methane emissions from landfills and creates nutrient-rich soil.',
   'recycling': 'Recycling helps reduce waste, conserve resources, and decrease pollution. Be sure to clean containers before recycling, follow your local guidelines, and remember that not all plastics are recyclable.',
-  'hello': 'Hello! I\'m EcoGuide, your AI assistant for carbon footprint and waste management. How can I help you today?',
-  'hi': 'Hi there! I\'m EcoGuide. I can help you understand and manage your environmental impact. What would you like to know about?'
+  'hello': 'Hello! I\'m Djen, your AI assistant for carbon footprint and waste management. How can I help you today?',
+  'hi': 'Hi there! I\'m Djen. I can help you understand and manage your environmental impact. What would you like to know about?'
 };
 
 // Check input against keywords to find the best matching response

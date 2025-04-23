@@ -90,7 +90,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ isOpen, onClose }) => {
             <div className="h-8 w-8 rounded-full bg-emerald-500 flex items-center justify-center">
               <span className="text-white font-medium">E</span>
             </div>
-            <h3 className="ml-2 font-medium">EcoGuide Assistant</h3>
+            <h3 className="ml-2 font-medium">Djen Assistant</h3>
           </div>
           <button
             onClick={onClose}
